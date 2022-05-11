@@ -1,4 +1,4 @@
 # dlnd
 
 
-[tralala](https://ya.ru)
+<span style="color:white">[tralala](https://ya.ru)</span>
